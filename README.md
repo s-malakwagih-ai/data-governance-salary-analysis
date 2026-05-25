@@ -25,10 +25,10 @@ The goal is to clean, validate, and analyze real-world salary data while applyin
 ---
 
 ## 📂 Project Structure
-data/
-notebooks/
-reports/
-images/
+/data
+/notebooks
+/reports
+/images
 
 ---
 
